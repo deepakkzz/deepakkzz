@@ -22,8 +22,9 @@ Aspiring Cloud Architect with a strong foundation in Cybersecurity, Computer Net
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+   <a href="https://www.netacad.com/courses/packet-tracer">
+  <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1D63ED?style=for-the-badge&logo=Cisco&logoColor=white" />
+</a>
 </div>
 
 ### Endpoint
